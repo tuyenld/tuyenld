@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuyenld&label=Profile%20views&color=0e75b6&style=flat" alt="tuyenld" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tuyen_ld" target="blank"><img src="https://img.shields.io/twitter/follow/tuyen_ld?logo=twitter&style=for-the-badge" alt="tuyen_ld" /></a> </p>
-
 - 🔭 I’m currently working on [showme-machine](https://github.com/tuyenld/showme-machine)
 
 - 📝 I regularly write articles on [circuitlover.com](circuitlover.com)
