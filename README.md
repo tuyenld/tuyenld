@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [showme-machine](https://github.com/tuyenld/showme-machine)
 
-- 📝 I regularly write articles on [circuitlover.com](circuitlover.com)
+- 📝 I regularly write articles on [https://circuitlover.com](circuitlover.com)
 
 - 📫 How to reach me **tuyenld@circuitlover.com**
 
