@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuyenld&label=Profile%20views&color=0e75b6&style=flat" alt="tuyenld" /> </p>
 
-- 🔭 I’m currently working on [showme-machine](https://github.com/tuyenld/showme-machine)
+- 🔭 I’m currently working on [silly-graduation-hat](https://github.com/tuyenld/silly-graduation-hat)
 
 - 📝 I regularly write articles on [circuitlover.com](https://circuitlover.com)
 
