@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuyenld&label=Profile%20views&color=0e75b6&style=flat" alt="tuyenld" /> </p>
 
-- 🔭 I’m currently working on [silly-graduation-hat](https://github.com/tuyenld/silly-graduation-hat)
+- 📝 I regularly write articles on [tuyen.pages.dev](https://tuyen.pages.dev/)
 
-- 📝 I regularly write articles on [circuitlover.com](https://circuitlover.com)
-
-- 📫 How to reach me **tuyenld@circuitlover.com**
+- 📫 How to reach me **tuyenld.work at the email service provided by Google**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
